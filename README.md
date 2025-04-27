@@ -39,4 +39,7 @@ Currently, my main focus is Java, and I am studying Systems Analysis and Develop
   <a href="https://www.linkedin.com/in/victoreemanuel/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
+
+  ![Snake animation](https://github.com/victoreemanuel/victoreemanuel/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
