@@ -1,4 +1,4 @@
-## Olá, me chamo Victor, sou desenvolvedor, atualmente cursando Analise e Desinvolvimento de Sistemas!
+## Hi, I'm Victor, a Java developer. I'm currently studying Systems Analysis and Development.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Java" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
