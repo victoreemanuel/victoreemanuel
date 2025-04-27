@@ -19,3 +19,21 @@ Currently, my main focus is Java, and I am studying Systems Analysis and Develop
 <div style="display: inline_block"><br>
 <img align="center" alt="Victor-Gif" height="250" width="250" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952560mn8ycfyppl2plawwv1wn8e35jd9q3480jlo75&ep=v1_gifs_search&rid=200w.gif&ct=g">
 </div
+
+<div>
+  <a href="https://www.youtube.com/@EmanuDev" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.twitch.tv/itzvitaosx1" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
+  </a>
+  <a href="https://web.whatsapp.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:evsistemas31@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-X23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/victoreemanuel/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-X2307785?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
