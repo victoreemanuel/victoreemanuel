@@ -31,9 +31,9 @@ Currently, my main focus is Java, and I am studying Systems Analysis and Develop
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
   <a href="mailto:evsistemas31@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-X23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/victoreemanuel/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-X2307785?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
