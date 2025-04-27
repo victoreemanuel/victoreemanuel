@@ -6,8 +6,8 @@ Currently, my main focus is Java, and I am studying Systems Analysis and Develop
 
 <div>
   <a href="https://github.com/victoreemanuel">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoreemanuel&layout=compact&langs_count=7&theme=ocean_dark"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=victoreemanuel&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoreemanuel&layout=compact&langs_count=7&theme=ocean_dark"/> 
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=victoreemanuel&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 <br>
