@@ -27,7 +27,7 @@ Currently, my main focus is Java, and I am studying Systems Analysis and Develop
   <a href="https://www.twitch.tv/itzvitaosx1" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
   </a>
-  <a href="https://web.whatsapp.com/" target="_blank">
+  <a href="http://discordapp.com/users/421741427094061066" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
   <a href="mailto:evsistemas31@gmail.com">
