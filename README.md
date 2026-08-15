@@ -1,8 +1,35 @@
-## Hey, I'm Victor!!👋
-Welcome to my GitHub profile!<br>
-Currently, my main focus is Java, and I am studying Systems Analysis and Development.
-<br>
-<br>
+### Hey, I'm Victor! 👋
+
+Estudante de Engenharia de Software (formado em ADS). Foco em backend com Java e 
+Spring Boot, também trabalho com Angular, Flutter e Docker quando o projeto pede.
+
+🔭 Atualmente construindo o **DocsRightHere** — sistema de gestão documental 
+(Java, Spring Boot, Angular, Flutter, MySQL)
+
+---
+
+### Projetos em destaque
+
+**[DocsRightHere](link-do-repo)** — Sistema web e mobile de gestão de documentos
+`Java` `Spring Boot` `Angular` `Flutter` `MySQL` `Docker`
+
+**[Cidadania Ativa](link-do-repo)** — Plataforma de denúncias urbanas (projeto em equipe)
+`HTML/CSS/JS` `Flutter` `Spring Boot`
+
+**[Sistema de Pedidos - Restaurante](link-do-repo)** — Sistema aplicando 6 padrões de projeto GoF
+`Java` `Design Patterns`
+
+---
+
+### Stack
+
+**Back-end:** Java, Spring Boot  
+**Front-end:** Angular, TypeScript  
+**Mobile:** Flutter, Dart  
+**Banco de dados:** MySQL  
+**Ferramentas:** Git, Docker, Figma, Postman
+
+📫 emanuelesc31@gmail.com
 
 <div>
   <a href="https://github.com/victoreemanuel">
@@ -14,26 +41,19 @@ Currently, my main focus is Java, and I am studying Systems Analysis and Develop
     
 <div style="display: inline_block">
   <img align="center" alt="Victor-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="Victor-Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <img align="center" alt="Victor-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
+  <img align="center" alt="Victor-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Victor-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
   <img align="center" alt="Victor-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg">
   <img align="center" alt="Victor-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="Victor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Victor-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"> 
-  <img align="center" alt="Victor-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">     
-  <img align="center" alt="Victor-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg">
-  <img align="center" alt="Victor-AfterEffects" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg">
-  <img align="center" alt="Victor-Premiere" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg">
-  <img align="center" alt="Victor-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg">
+  <img align="center" alt="Victor-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Victor-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+  <img align="center" alt="Victor-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="Victor-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+  <img align="center" alt="Victor-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
   <img align="center" alt="Victor-Notion" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg">
-  <img align="center" alt="Victor-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
-</div
-<br>
-<br>
-<br>
-<div style="display: flex; justify-content: center;">
-  <img src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952560mn8ycfyppl2plawwv1wn8e35jd9q3480jlo75&ep=v1_gifs_search&rid=200w.gif&ct=g">
+  <img align="center" alt="Victor-Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg">
 </div>
 <br>
 
@@ -47,11 +67,5 @@ Currently, my main focus is Java, and I am studying Systems Analysis and Develop
   </a>
   <a href="https://www.youtube.com/@EmanuDev" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.twitch.tv/itzvitaosx1" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
-  </a>
-  <a href="http://discordapp.com/users/421741427094061066" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
 </div>
