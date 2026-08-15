@@ -1,22 +1,19 @@
-### Hey, I'm Victor! 👋
+### Eae, Sou Victor! 👋
 
 Estudante de Engenharia de Software (formado em ADS). Foco em backend com Java e 
-Spring Boot, também trabalho com Angular, Flutter e Docker quando o projeto pede.
-
-🔭 Atualmente construindo o **DocsRightHere** — sistema de gestão documental 
-(Java, Spring Boot, Angular, Flutter, MySQL)
+Spring Boot.
 
 ---
 
 ### Projetos em destaque
 
-**[DocsRightHere](link-do-repo)** — Sistema web e mobile de gestão de documentos
+**[DocsRightHere]([link-do-repo](https://github.com/victoreemanuel/Docs-Right-Here))** — Sistema web e mobile de gestão de documentos
 `Java` `Spring Boot` `Angular` `Flutter` `MySQL` `Docker`
 
-**[Cidadania Ativa](link-do-repo)** — Plataforma de denúncias urbanas (projeto em equipe)
+**[Cidadania Ativa](https://github.com/victoreemanuel/CidadaniaAtiva)** — Plataforma de denúncias urbanas (projeto em equipe)
 `HTML/CSS/JS` `Flutter` `Spring Boot`
 
-**[Sistema de Pedidos - Restaurante](link-do-repo)** — Sistema aplicando 6 padrões de projeto GoF
+**[Sistema de Pedidos - Restaurante](https://github.com/victoreemanuel/SistemaRestaurante)** — Sistema aplicando 6 padrões de projeto GoF
 `Java` `Design Patterns`
 
 ---
@@ -29,16 +26,6 @@ Spring Boot, também trabalho com Angular, Flutter e Docker quando o projeto ped
 **Banco de dados:** MySQL  
 **Ferramentas:** Git, Docker, Figma, Postman
 
-📫 emanuelesc31@gmail.com
-
-<div>
-  <a href="https://github.com/victoreemanuel">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoreemanuel&layout=compact&langs_count=7&theme=ocean_dark"/> 
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=victoreemanuel&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-</div>
-<br>
-<br>
-    
 <div style="display: inline_block">
   <img align="center" alt="Victor-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Victor-Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
