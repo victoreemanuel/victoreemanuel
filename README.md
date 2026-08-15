@@ -1,20 +1,38 @@
-### Eae, Sou Victor! 👋
+### Eae, sou Victor! 👋
 
 Estudante de Engenharia de Software (formado em ADS). Foco em backend com Java e 
 Spring Boot.
 
 ---
 
-### Projetos em destaque
+## 🚀 Projetos em destaque
 
-**[DocsRightHere]([link-do-repo](https://github.com/victoreemanuel/Docs-Right-Here))** — Sistema web e mobile de gestão de documentos
-`Java` `Spring Boot` `Angular` `Flutter` `MySQL` `Docker`
+### [DocsRightHere](https://github.com/victoreemanuel/Docs-Right-Here)
+Sistema web e mobile de gestão de documentos
 
-**[Cidadania Ativa](https://github.com/victoreemanuel/CidadaniaAtiva)** — Plataforma de denúncias urbanas (projeto em equipe)
-`HTML/CSS/JS` `Flutter` `Spring Boot`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**[Sistema de Pedidos - Restaurante](https://github.com/victoreemanuel/SistemaRestaurante)** — Sistema aplicando 6 padrões de projeto GoF
-`Java` `Design Patterns`
+---
+
+### [Cidadania Ativa](https://github.com/victoreemanuel/CidadaniaAtiva)
+Plataforma de denúncias urbanas (projeto em equipe)
+
+![HTML/CSS/JS](https://img.shields.io/badge/HTML/CSS/JS-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+---
+
+### [Sistema de Pedidos - Restaurante](https://github.com/victoreemanuel/SistemaRestaurante)
+Sistema aplicando 6 padrões de projeto GoF
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-8A2BE2?style=flat-square)
 
 ---
 
