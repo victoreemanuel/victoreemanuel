@@ -1,7 +1,6 @@
 ### Eae, sou Victor! 👋
 
-Estudante de Engenharia de Software (formado em ADS). Foco em backend com Java e 
-Spring Boot.
+Estudante de Engenharia de Software (formado em ADS).
 
 ---
 
